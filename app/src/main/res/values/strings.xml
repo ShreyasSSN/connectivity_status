@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DataCollect</string>
+    <string name="battery_percentage">BATTERY</string>
+    <string name="wifi_status">WIFI</string>
+    <string name="gprs_status">GPRS</string>
+    <string name="bt_status">BT</string>
+    <string name="CHECK_WIFI">Check_Wifi</string>
+    <string name="CHECK_GPRS">Check_GPRS</string>
+    <string name="CHECK_BT">Check_BT</string>
+    <string name="check_for_battery">Check Battery percentage</string>
+
+</resources>
